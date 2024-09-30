@@ -12,6 +12,12 @@ Install the dependencies.
 npm install
 ```
 
+Get a [Google Fonts API Key](https://developers.google.com/fonts/docs/developer_api) and create a `.env` file.
+
+```
+GOOGLE_FONTS_API_KEY="AIza...sJkk"
+```
+
 Run the script.
 
 ```bash
